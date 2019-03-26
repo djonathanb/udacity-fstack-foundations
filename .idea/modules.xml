@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/fstack-foundations-udacity.iml" filepath="$PROJECT_DIR$/.idea/fstack-foundations-udacity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/udacity-fstack-foundations.iml" filepath="$PROJECT_DIR$/.idea/udacity-fstack-foundations.iml" />
     </modules>
   </component>
 </project>
